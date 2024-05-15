@@ -1,0 +1,40 @@
+* {
+    text-align: center;
+    background-color: lightblue;
+}
+
+.main-content {
+    padding: 30px;
+}
+
+.homepage-title {
+    padding: 50px;
+    color: yellow;
+    font-size: 60px;
+    -webkit-text-stroke-width: .75px;
+    -webkit-text-stroke-color: black;
+}
+
+a {
+    padding: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 5px;
+}
+
+ol {
+    list-style-position: inside;
+    padding: 5px;
+}
+
+li {
+    padding: 5px;
+}
+
+h3 {
+    padding: 10px;
+    color: yellow;
+    font-size: 30px;
+}
