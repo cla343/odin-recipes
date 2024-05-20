@@ -38,3 +38,12 @@ h3 {
     color: yellow;
     font-size: 30px;
 }
+
+.click-me {
+    padding: 5px;
+    margin: 5px;
+    background-color: yellow;
+    color: black;
+    border-radius: 5px;
+    text-decoration: none;
+}
